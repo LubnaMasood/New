@@ -3,7 +3,7 @@ some random text
 
 another line of text
 some other example
-some randome stuff
+some random stuff
 
 ### How To Bake an Easy Lemon Cake 
 
