@@ -13,7 +13,7 @@ some random stuff
 
 |Prep     |Cook     |   Serves|
 |---------|---------|---------|
-|50mins   |1hr + 35mins cooling|8-10    |
+|50mins   |1hr + 35mins cooling|  8-10|
 
 # Ingredients
 
